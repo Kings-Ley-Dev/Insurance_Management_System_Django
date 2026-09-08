@@ -1,15 +1,10 @@
-# Insurance Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+# Insurance Management System
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Kingsley%20Quarshie-red)
 ---
-## screenshots
-### Homepage
-![homepage snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/homepage.png?raw=true)
-### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/dashboard.png?raw=true)
-### Policy Record
-![invoice snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/policyrecord.png?raw=true)
-### Policy 
-![doctor snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/policy.png?raw=true)
+
+## Project Info
+This project is a multi-user web-based application system that manages all the insurance policies of customers. This project is created in python, Django, and SQLITE3 Database.
+
 ---
 
 ## Functions
@@ -28,7 +23,7 @@
 - If customer likes any policy, then they can apply for it.
 - When customer will apply for any policy, it will go into pending status, admin can approve it.
 - Customer can check status of his policy under history section
-- Customer can ask question from admin. 
+- Customer can ask question from admin.
 
 ---
 
@@ -57,6 +52,6 @@ EMAIL_HOST_USER = 'youremail@gmail.com'
 EMAIL_HOST_PASSWORD = 'your email password'
 EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 ```
-- Login to gmail through host email id in your browser and open following link and turn it ON
+- Login to gmail through host email id in your browser.
 ```
 ```

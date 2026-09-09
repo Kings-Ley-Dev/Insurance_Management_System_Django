@@ -1,5 +1,5 @@
 # Insurance Management System
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Kingsley%20Quarshie-red)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Kingsley%20Quarshie-purple)
 ---
 
 ## Project Info

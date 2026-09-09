@@ -1,5 +1,5 @@
 """
-WSGI config for insurancemanagement project.
+WSGI config for insurancemanagement project. 
 """
 
 import os

@@ -1,5 +1,5 @@
 """
-ASGI config for insurancemanagement project.
+ASGI config for insurancemanagement project. 
 """
 
 import os

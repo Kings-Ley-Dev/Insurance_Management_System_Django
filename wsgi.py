@@ -1,8 +1,8 @@
 """
-WSGI config for insurancemanagement project. 
+WSGI config for insurancemanagement project.
 """
 
-import os
+import os 
 
 from django.core.wsgi import get_wsgi_application
 
